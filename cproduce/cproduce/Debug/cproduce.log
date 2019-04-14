@@ -1,0 +1,5 @@
+﻿  cproduce.cpp
+d:\mycode\c++\cproduce\cproduce\cproduce.cpp(80): warning C4101: “de”: 未引用的局部变量
+d:\mycode\c++\cproduce\cproduce\cproduce.cpp(96): warning C4101: “err”: 未引用的局部变量
+d:\mycode\c++\cproduce\cproduce\cproduce.cpp(126): warning C4326: “main”的返回类型应为“int”而非“void”
+  cproduce.vcxproj -> D:\MyCode\c++\cproduce\Debug\cproduce.exe
